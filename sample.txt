@@ -1,1 +1,3 @@
 サンプルテキスト1
+・git add
+・git commit
