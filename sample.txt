@@ -1,4 +1,0 @@
-サンプルテキスト1
-・git add
-・git commit
-・git status
